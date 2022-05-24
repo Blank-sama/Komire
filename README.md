@@ -34,6 +34,8 @@ Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.co
 ```
 
   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AnimeKaizoku/SaitamaRobot.git)
+ 
+ <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/BONTEN-NETWORK/SaitamaRobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 </details>  
 <details>
@@ -58,6 +60,8 @@ It is recommended to import sample_config and extend the Config class, as this w
 defaults set in the sample_config, hence making it easier to upgrade.
 
 An example `config.py` file could be:
+ 
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Blank-sama/Komire"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 ```
 from SaitamaRobot.sample_config import Config
 
