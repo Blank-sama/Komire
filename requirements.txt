@@ -3,7 +3,7 @@ emoji
 lxml
 beautifulsoup4
 requests
-sqlalchemy
+SQLAlchemy==1.4.29
 python-telegram-bot
 psycopg2-binary
 feedparser
